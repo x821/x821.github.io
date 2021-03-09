@@ -3,11 +3,11 @@
   <title>XuMengru</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://x821.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://x821.github.io/"/>
   <updated>2020-10-30T09:49:36.099Z</updated>
-  <id>http://example.com/</id>
+  <id>http://x821.github.io/</id>
   
   <author>
     <name>Xu Meng Ru</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="http://example.com/2020/10/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/2020/10/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="http://x821.github.io/2020/10/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://x821.github.io/2020/10/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2020-10-30T09:32:11.000Z</published>
     <updated>2020-10-30T09:49:36.099Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/10/30/hello-world/"/>
-    <id>http://example.com/2020/10/30/hello-world/</id>
+    <link href="http://x821.github.io/2020/10/30/hello-world/"/>
+    <id>http://x821.github.io/2020/10/30/hello-world/</id>
     <published>2020-10-30T07:48:56.821Z</published>
     <updated>2020-10-30T07:48:56.821Z</updated>
     
