@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-10-30T09:49:36.099Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Xu Meng Ru</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="http://example.com/2020/10/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://example.com/2020/10/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-10-30T09:32:11.000Z</published>
+    <updated>2020-10-30T09:49:36.099Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="写作介绍"><a href="#写作介绍" class="headerlink" title="写作介绍"></a>写作介绍</h1><h2 id="1，字体介绍"><a href="#1，字体介绍" class="headerlink" title="1，字体介绍"></a>1，字体介绍</h2><p><em>这是斜体</em> 或 <em>这也是斜体</em><br><strong>这是粗体</strong><br><strong><em>这是加粗斜体</em></strong><br><del>这是删除线</del></p><h2 id="2，分级标题"><a href="#2，分级标题" class="headerlink" title="2，分级标题"></a>2，分级标题</h2><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><h2 id="3，超链接"><a href="#3，超链接" class="headerlink" title="3，超链接"></a>3，超链接</h2><p>写法：</p><h2 id="4-列表"><a href="#4-列表" class="headerlink" title="4,列表"></a>4,列表</h2><p>无序列表：<br>写法：</p><ul><li>无序列表项1</li></ul><ul><li>无序列表项2</li></ul><ul><li>无序列表项3</li></ul><p>有序列表：<br>写法：<br>1.有序列表项1<br>2.有序列表项2<br>3.有序列表项3</p><h2 id="5，插入图片"><a href="#5，插入图片" class="headerlink" title="5，插入图片"></a>5，插入图片</h2><p>在 Hexo 中插入图片，首先需要将图片放在 source/img/ 文件夹下，然后如下方式进行插入：</p><p><img src="url"></p><h2 id="6，表格"><a href="#6，表格" class="headerlink" title="6，表格"></a>6，表格</h2><table><thead><tr><th>表头1</th><th align="left">表头2</th><th align="center">表头3</th><th align="right">表头4</th></tr></thead><tbody><tr><td>默认左对齐</td><td align="left">左对齐</td><td align="center">居中对其</td><td align="right">右对齐</td></tr><tr><td>默认左对齐</td><td align="left">左对齐</td><td align="center">居中对其</td><td align="right">右对齐</td></tr><tr><td>默认左对齐</td><td align="left">左对齐</td><td align="center">居中对其</td><td align="right">右对齐</td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;写作介绍&quot;&gt;&lt;a href=&quot;#写作介绍&quot; class=&quot;headerlink&quot; title=&quot;写作介绍&quot;&gt;&lt;/a&gt;写作介绍&lt;/h1&gt;&lt;h2 id=&quot;1，字体介绍&quot;&gt;&lt;a href=&quot;#1，字体介绍&quot; class=&quot;headerlink&quot; title=&quot;1，字体介</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2020/10/30/hello-world/"/>
+    <id>http://example.com/2020/10/30/hello-world/</id>
+    <published>2020-10-30T07:48:56.821Z</published>
+    <updated>2020-10-30T07:48:56.821Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
