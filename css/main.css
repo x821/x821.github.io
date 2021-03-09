@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #71aa79;
+  background: #ff5eff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2661,7 +2661,7 @@ embed {
   display: inline-block;
 }
 body {
-  background: url("/images/mmexport1600861844398.jpg");
+  background: url("/images/bizhi.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -2674,7 +2674,7 @@ body {
   background: rgba(255,250,0,0.2) none repeat scroll !important;
 }
 #sidebar {
-  background: url("/images/img-74b345d47b452c12bfa1a06bd7de0e5a.jpg");
+  background: url("/images/bj.jpg");
   opacity: 0.5;
   background-size: cover;
   background-position: center;
@@ -2686,7 +2686,7 @@ body {
   color: #fff;
 }
 .sidebar {
-  background: url("/images/img-74b345d47b452c12bfa1a06bd7de0e5a.jpg");
+  background: url("/images/bj.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
