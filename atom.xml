@@ -6,7 +6,7 @@
   <link href="http://x821.github.io/atom.xml" rel="self"/>
   
   <link href="http://x821.github.io/"/>
-  <updated>2021-03-16T03:10:35.007Z</updated>
+  <updated>2021-03-16T03:18:04.432Z</updated>
   <id>http://x821.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MySQL</title>
+    <link href="http://x821.github.io/2021/03/16/MySQL/"/>
+    <id>http://x821.github.io/2021/03/16/MySQL/</id>
+    <published>2021-03-16T03:18:04.000Z</published>
+    <updated>2021-03-16T03:18:04.432Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>cookie session</title>
