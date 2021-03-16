@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://x821.github.io/2020/05/13/cookie-session/</loc>
+    
+    <lastmod>2021-03-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://x821.github.io/2020/06/02/MySQL/</loc>
+    
+    <lastmod>2021-03-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://x821.github.io/categories/index.html</loc>
     
     <lastmod>2021-03-16</lastmod>
@@ -18,5 +32,19 @@
 
   
 
+  
+  <url>
+    <loc>http://x821.github.io/categories/MySQL/</loc>
+    <lastmod>2021-03-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://x821.github.io/categories/JavaScript/</loc>
+    <lastmod>2021-03-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
