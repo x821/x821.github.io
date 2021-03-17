@@ -4,7 +4,7 @@
   <url>
     <loc>http://x821.github.io/2021/03/16/%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%92%8C%E6%B5%85%E6%8B%B7%E8%B4%9D/</loc>
     
-    <lastmod>2021-03-16</lastmod>
+    <lastmod>2021-03-17</lastmod>
     
   </url>
   
@@ -32,7 +32,7 @@
 
   <url>
     <loc>http://x821.github.io/</loc>
-    <lastmod>2021-03-16</lastmod>
+    <lastmod>2021-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -41,15 +41,22 @@
 
   
   <url>
-    <loc>http://x821.github.io/categories/MySQL/</loc>
-    <lastmod>2021-03-16</lastmod>
+    <loc>http://x821.github.io/categories/JavaScript/</loc>
+    <lastmod>2021-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://x821.github.io/categories/JavaScript/</loc>
-    <lastmod>2021-03-16</lastmod>
+    <loc>http://x821.github.io/categories/MySQL/</loc>
+    <lastmod>2021-03-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://x821.github.io/categories/JS/</loc>
+    <lastmod>2021-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
